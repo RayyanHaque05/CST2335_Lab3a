@@ -1,7 +1,5 @@
 # CST2335 Lab 3 - Activity Lifecycle & Intents
 
-**Student Name:** Rayyan Haque  
-**Student ID:** 041256359  
 **Course:** CST2335 - Mobile Graphical Interface Programming  
 **Branch:** lab_3  
 
